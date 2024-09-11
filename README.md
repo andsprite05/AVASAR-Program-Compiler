@@ -6,23 +6,29 @@ To run the Avasar Program Compiler, the user must download the code for the comp
 The parsing by string translation and compilation method of the Avasar Program Compiler is new, innovative and is claimed as the subject matter of the invention.
 
 # COMPILER DOCUMENTATION
-अगला (next)
-प्रणाली.इनपुट (System.in)
-लाना जावा.संग्रह.* (import java.util.*)
-आम कक्षा _ हिंदी (public class _)
-आम तय खाली मुख्य(शब्द[] तर्क) (public static void main(String[] args))
-पूर्णांक (int)
-शब्द (String)
-दशमलव (double)
-लिखो (System.out.print)
-अगर / वरना (if / else)
-वापस (return)
-सच (true)
-झूठ (false)
-रुक (break)
-अक्षर (char)
-अगली_पंक्ति_लिखो (System.out.println)
-पढ़ो (Scanner)
-नया (new)
-के_लिये (for)
-जब_तक (while)
+अगला (next) <br />
+प्रणाली.इनपुट (System.in) <br />
+लाना जावा.संग्रह.* (import java.util.*) <br />
+आम कक्षा _ हिंदी (public class _) <br />
+आम तय खाली मुख्य(शब्द[] तर्क) (public static void main(String[] args)) <br />
+पूर्णांक (int) <br />
+शब्द (String) <br />
+दशमलव (double) <br />
+लिखो (System.out.print) <br />
+अगर / वरना (if / else) <br />
+वापस (return) <br />
+सच (true) <br />
+झूठ (false) <br />
+रुक (break) <br />
+अक्षर (char) <br />
+अगली_पंक्ति_लिखो (System.out.println) <br />
+पढ़ो (Scanner) <br />
+नया (new) <br />
+के_लिये (for) <br />
+जब_तक (while) <br />
+
+# COMPILER FRAMEWORK
+![image](https://github.com/user-attachments/assets/e6223d6b-bde0-4f38-8307-1548ecebb21f)
+
+# DEMO
+https://drive.google.com/file/d/1oxT6ePYvc4g3oqTO1fyus2clHkQd-kFe/view?usp=drive_link
